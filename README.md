@@ -37,11 +37,12 @@ Built using **Node.js, Express, MongoDB** for the backend and **React** for the 
 
 ## 📸 Screenshots
 
+
 | | |
 |---|---|
-| ![RxManager](screenshots/rx1.png) | ![RxManager](screenshots/rx2.png) |
-| ![RxManager](screenshots/rx3.png) | ![RxManager](screenshots/rx4.png) |
-| ![RxManager](screenshots/rx5.png) | ![RxManager](screenshots/rx6.png) |
+| ![RxManager](screenshots/rx1.PNG) | ![RxManager](screenshots/rx2.PNG) |
+| ![RxManager](screenshots/rx3.PNG) | ![RxManager](screenshots/rx4.PNG) |
+| ![RxManager](screenshots/rx5.PNG) | ![RxManager](screenshots/rx6.PNG) |
 
 
 ---
@@ -64,12 +65,12 @@ RxManager/
 │   └── services/
 │
 ├── screenshots/
-│   ├── rx1.png
-│   ├── rx2.png
-│   ├── rx3.png
-│   ├── rx4.png
-│   ├── rx5.png
-│   └── rx6.png
+│   ├── rx1.PNG
+│   ├── rx2.PNG
+│   ├── rx3.PNG
+│   ├── rx4.PNG
+│   ├── rx5.PNG
+│   └── rx6.PNG
 │
 └── README.md
 
