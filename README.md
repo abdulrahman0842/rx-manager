@@ -39,7 +39,7 @@ Built using **Node.js, Express, MongoDB** for the backend and **React** for the 
 
 | | |
 |---|---|
-| ![RxManager](./screenshots/rx1.png) | ![RxManager](./screenshots/rx2.png) |
+| ![RxManager](./main/screenshots/rx1.png) | ![RxManager](./screenshots/rx2.png) |
 | ![RxManager](./screenshots/rx3.png) | ![RxManager](./screenshots/rx4.png) |
 | ![RxManager](./screenshots/rx5.png) | ![RxManager](./screenshots/rx6.png) |
 
