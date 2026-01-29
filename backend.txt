@@ -1,0 +1,29 @@
+TODO-
+Medicine manager
+req.body validation and db check for each fields
+
+company validator complete
+
+create validator middleware
+add it to route
+
+	Route
+add objectid validator for route with id param
+
+	Controller
+post 
+	destructure req.body
+	check is exits
+	use create instead of insert
+patch(update)
+	check is exist
+	define allowed fields to store
+	filter req.body for allowed field
+	find by id and update
+delete	
+	deleteOne()
+	if delete count == 0 
+	data not found
+
+------Issues-------
+1: Not validating req.body in patch req
